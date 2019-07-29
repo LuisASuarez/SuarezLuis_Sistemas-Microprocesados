@@ -1,3 +1,10 @@
+          //UNIVERSIDAD TÉCNICA DEL NORTE
+                 //FICA/CIERCOM
+            //SISTEMAS MICROPROCESADOS
+    
+//NOMBRE: LUIS SUAREZ
+//FECHA:  28/07/2019
+
 #include <avr/wdt.h> 
 #include<EEPROM.h>
 #include<MsTimer2.h>
